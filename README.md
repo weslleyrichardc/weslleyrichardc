@@ -7,7 +7,7 @@ On my free time, I learn about new technologies and watch anime like One Piece, 
 ## Detailed information
 
 * **Name**: Weslley Richard
-* **Age**: 26
+* **Age**: 27
 * **Living in**: Praia Grande - SP, Brazil
 * **Stack**: PHP - Laravel / Symfony - Bootstrap - SQL / Oracle - Redis - RabbitMQ
 * **University**: Catholic University of Santos - 2020 ... 2023
