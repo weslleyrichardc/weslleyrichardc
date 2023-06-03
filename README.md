@@ -1,6 +1,6 @@
 ## Hi there, I'm Weslley 👋
 
-I'm Weslley Richard. I currently live in São Paulo, Brazil and my work is to solve bugs at my current job at [Brasil TecPar](https://www.brasiltecpar.com.br/). 
+I'm Weslley Richard. 
 
 On my free time, I learn about new technologies and watch anime like One Piece, series like Scorpion and youtube channels about a lot of different subjects and technologies.
 
@@ -10,11 +10,11 @@ On my free time, I learn about new technologies and watch anime like One Piece, 
 * **Age**: 27
 * **Living in**: Praia Grande - SP, Brazil
 * **Stack**: PHP - Laravel / Symfony - Bootstrap - SQL / Oracle - Redis - RabbitMQ
-* **University**: Catholic University of Santos - 2020 ... 2023
 
 ## Curiosities about me
 
 * I did Computer Enginnering in Santa Cecilia University but not finished, there i made some projects like the project of a [EMG](https://noticias.unisanta.br/ciencia-tecnologia/startups-de-alunos-da-unisanta-sao-selecionadas-para-participar-de-projeto-do-sebrae) with the UFA team;
+* I did System Informations in Universidade Católica de Santos but not finished, there i made some projects like the [Unidrive](https://github.com/weslleyrichardc/unidrive);
 * I was a volunteer in a church to teach seniors how to use a computer and a cell phone where I learned to teach small details and repeat them in different ways as many times as necessary with patience for full understanding;
 
 ## Connect with me:
