@@ -14,7 +14,6 @@ On my free time, I learn about new technologies and watch anime like One Piece, 
 ## Curiosities about me
 
 * I did Computer Enginnering in Santa Cecilia University but not finished, there i made some projects like the project of a [EMG](https://noticias.unisanta.br/ciencia-tecnologia/startups-de-alunos-da-unisanta-sao-selecionadas-para-participar-de-projeto-do-sebrae) with the UFA team;
-* I did System Informations in Universidade Católica de Santos but not finished, there i made some projects like the [Unidrive](https://github.com/weslleyrichardc/unidrive);
 * I was a volunteer in a church to teach seniors how to use a computer and a cell phone where I learned to teach small details and repeat them in different ways as many times as necessary with patience for full understanding;
 
 ## Connect with me:
