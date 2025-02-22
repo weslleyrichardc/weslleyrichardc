@@ -1,29 +1,44 @@
-## Hi there, I'm Weslley Richard and live in Praia Grande, SP - Brazil 👋
+# Hi there, I'm Weslley Richard and live in SP - Brazil 👋
 
 [![LinkedIn](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/weslleyrichardc)
-
-In my free time, I like learning about new technologies and watching Anime (One Piece), TV Shows (Scorpion), and YouTube videos about many subjects.
-
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white)
-
-![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-  
-![Mysql](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-  
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
   
 > "It is better to be a warrior in a garden, than a gardener in a war." 
 
-Experienced PHP Backend Software Engineer with expertise in building scalable, high-performance systems using microservices architecture and cloud technologies. Skilled in PHP, Symfony, Laravel, and AWS (SNS, SQS, Lambda), I focus on developing robust backend solutions and ensuring code quality through practices like automated testing (PHPUnit) and CI/CD. My experience spans from creating an anti-fraud system, and platform integrations to backend development for commercial and networking applications. Over the years, I’ve also contributed to leadership roles, coordinating sprints and collaborating with cross-functional teams across various countries. Passionate about leveraging modern technologies such as Docker, RabbitMQ, Neo4J, and MongoDB, I also prioritize code stability with tools like SonarQube, continuously striving to deliver efficient, maintainable, and business-aligned software solutions.
+I’m a PHP Backend Software Engineer with a product mindset—delivering solutions that go beyond the initial idea to address what is truly needed, whether for agile startups or large-scale enterprise environments.
+
+I specialize in transforming innovative concepts into fully realized, production-ready products. My experience spans developing robust full-stack solutions in agile startup settings to architecting enterprise-grade systems for big companies. By leveraging technologies like PHP, Symfony, Laravel, AWS (SNS, SQS, Lambda), and Docker, I build scalable microservices that not only meet today’s requirements but also anticipate future needs.
+
+Even without a formal leadership title, I actively support and mentor my colleagues, fostering an environment where international teams collaborate effectively. I contribute ideas from my hands-on experience, ensuring that projects move seamlessly from concept to implementation with a clear vision and practical execution.
+
+## Technical Toolkit:
+
+### Backend: 
+
+PHP (Laravel, Symfony)
+
+### Frontend: 
+
+JavaScript (React, Vue), Alpine JS
+
+### Databases: 
+
+MySQL, Oracle Database, Redis, MongoDB, Neo4J
+
+### Cloud & Infrastructure: 
+
+AWS (SNS, SQS, Lambda), Docker
+
+### Messaging & Queuing: 
+
+RabbitMQ
+
+## Additional Expertise: 
+
+Full-stack development, anti-fraud systems, and platform integrations built to scale in both startup and big company environments.
 
 ## Curiosities
 
-* I did Computer Enginnering in Santa Cecilia University and not finished, there i made some projects like the project of a [EMG](https://noticias.unisanta.br/ciencia-tecnologia/startups-de-alunos-da-unisanta-sao-selecionadas-para-participar-de-projeto-do-sebrae);
-* I was a volunteer teaching seniors and teenagers how to use a computer in a church;
+* Demonstrated proficiency in software and hardware engineering and product prototyping through the development of the EMG project, selected by SEBRAE for project to create a startup, more in this [article](https://noticias.unisanta.br/ciencia-tecnologia/startups-de-alunos-da-unisanta-sao-selecionadas-para-participar-de-projeto-do-sebrae).
+* I volunteered to teach computer skills to seniors and teenagers at my local church, improving my communication skills while aiding my community.
+
+If you’re looking for a partner who can take an idea from inception to a comprehensive solution tailored for complex, high-demand settings, feel free to reach out at [contact@weslleyrichard.dev](mailto:contact@weslleyrichard.dev).
