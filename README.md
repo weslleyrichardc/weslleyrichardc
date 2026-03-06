@@ -1,22 +1,20 @@
 # Hi there, I'm Weslley Richard, and I live in SP - Brazil 👋
 
 [![LinkedIn](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/weslleyrichardc)
-  
-> "It is better to be a warrior in a garden, than a gardener in a war." 
 
-I’m a PHP Backend Software Engineer with 5+ years of experience and a product mindset. I deliver solutions that go beyond the initial idea to address what is truly needed, whether for agile startups or large-scale enterprise environments.
+I’m a Software Engineer with 5+ years of experience and a product mindset. I deliver solutions that go beyond the initial idea to address what is truly needed, whether at agile startups or large-scale enterprise environments.
 
-## Habilidades
+## Skills
 
-- **Linguagens:** PHP, JavaScript (ES6+), Python, Go
-- **Frameworks:** Symfony, Laravel, React, Vue, Node.js
-- **Bancos de Dados:** MySQL, MongoDB, PostgreSQL, Oracle Database
-- **Ferramentas:** Docker, RabbitMQ, SonarQube, PHPUnit
+- **Languages:** PHP, JavaScript, Python, Go
+- **Frameworks:** Symfony, Laravel, React, Vue
+- **Databases:** MySQL, MongoDB, PostgreSQL, Oracle Database
+- **Tools:** Docker, RabbitMQ, SonarQube, PHPUnit
 - **Cloud:** AWS (EC2, S3, Lambda, SNS, SQS)
 
 ## Professional Experience
 
-**Printi, Remote** | Backend Software Engineer PHP | April 2023 - Present
+**Printi, Remote** | Backend Software Engineer PHP | April 2023 - July 2025
 * Maintained high standards of code quality by conducting reviews, refactoring, and implementing automated testing using PHPUnit and SonarQube, ensuring code stability and security.
 * Worked as a software engineer and gradually took on more leadership responsibilities, coordinating sprints, managing development efforts, and aligning teams with business objectives.
 * Collaborated with international developers, coordinating different time zones and cultural contexts.
@@ -35,13 +33,11 @@ I’m a PHP Backend Software Engineer with 5+ years of experience and a product 
 * Created with other interns a project to manage internal information, from passwords to configurations and the status of projects in progress.
 * Worked on the backend of various sites, from simple landing pages with contact forms to more complex sites with integrations with WordPress via plugins, payment using PagSeguro, and administrative panels for controlling information.
 
-## Educação
+## Education
 
-**ETEC Adolpho Berezin (Centro Paula Souza)** | Técnico em Informática | Julho 2011 - Dezembro 2012
+**ETEC Adolpho Berezin (Centro Paula Souza)** | Computer Technician | July 2011 - December 2012
 
 ## Curiosities
 
-* Demonstrated proficiency in software and hardware engineering and product prototyping through the development of the EMG project, selected by SEBRAE for project to create a startup, more in this [article](https://noticias.unisanta.br/ciencia-tecnologia/startups-de-alunos-da-unisanta-sao-selecionadas-para-participar-de-projeto-do-sebrae).
+* Demonstrated proficiency in software and hardware engineering and product prototyping through the development of the EMG project, selected by SEBRAE to create a startup, more in this [article](https://noticias.unisanta.br/ciencia-tecnologia/startups-de-alunos-da-unisanta-sao-selecionadas-para-participar-de-projeto-do-sebrae).
 * I volunteered to teach computer skills to seniors and teenagers at my local church, improving my communication skills while aiding my community.
-
-If you’re looking for a partner who can take an idea from inception to a comprehensive solution tailored for complex, high-demand settings, feel free to reach out at [weslleyrichardc@gmail.com](mailto:weslleyrichardc@gmail.com).
