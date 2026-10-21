@@ -3,11 +3,13 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/weslleyrichardc)
 [![Website](https://img.shields.io/badge/weslleyrichard.dev-000000?style=for-the-badge&logo=astro&logoColor=white)](https://www.weslleyrichard.dev)
 
-**Backend Software Engineer · PHP / Laravel / Symfony**
+**Backend Software Engineer · PHP / Laravel / Symfony** - Tbilisi, Georgia
 
 Backend software engineer with 5+ years of experience and a product mindset. I build scalable services and microservices in PHP (Laravel & Symfony) on AWS and Docker, and I care about the problem behind the ticket — whether that's an agile startup or a large-scale enterprise.
 
 > **Open to remote full-stack/backend roles (PHP/Laravel preferred) and freelance, consulting, and part-time welcome.**
+
+After Printi, I took a sabbatical and have been traveling since, and I'm now looking for remote work to make the nomad life a long-term thing.
 
 ## Skills
 
