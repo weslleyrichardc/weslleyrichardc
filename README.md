@@ -1,43 +1,53 @@
-# Hi there, I'm Weslley Richard, and I live in SP - Brazil 👋
+# Hi, I'm Weslley Richard 👋
 
-[![LinkedIn](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/weslleyrichardc)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/weslleyrichardc)
+[![Website](https://img.shields.io/badge/weslleyrichard.dev-000000?style=for-the-badge&logo=astro&logoColor=white)](https://www.weslleyrichard.dev)
 
-I’m a Software Engineer with 5+ years of experience and a product mindset. I deliver solutions that go beyond the initial idea to address what is truly needed, whether at agile startups or large-scale enterprise environments.
+**Backend Software Engineer · PHP / Laravel / Symfony**
+
+Backend software engineer with 5+ years of experience and a product mindset. I build scalable services and microservices in PHP (Laravel & Symfony) on AWS and Docker, and I care about the problem behind the ticket — whether that's an agile startup or a large-scale enterprise.
+
+> **Open to remote full-stack/backend roles (PHP/Laravel preferred) and freelance, consulting, and part-time welcome.**
 
 ## Skills
 
-- **Languages:** PHP, JavaScript, Python, Go
-- **Frameworks:** Symfony, Laravel, React, Vue
-- **Databases:** MySQL, MongoDB, PostgreSQL, Oracle Database
-- **Tools:** Docker, RabbitMQ, SonarQube, PHPUnit
-- **Cloud:** AWS (EC2, S3, Lambda, SNS, SQS)
+- **Languages:** PHP, JavaScript, Python, Go, Node.js
+- **Backend:** Laravel, Symfony, Doctrine ORM, REST APIs, microservices
+- **Frontend:** React, Vue, Alpine.js, Next.js, Tailwind CSS
+- **Databases:** MySQL, PostgreSQL, Oracle DB, MongoDB, Redis
+- **Messaging:** RabbitMQ, Kafka
+- **Cloud & infrastructure:** AWS (EC2, S3, Lambda, SNS, SQS), Docker, Docker Compose
+- **Integrations:** CRM (HubSpot), Payment (PagSeguro, Stripe, Adyen, Asaas)
+- **Quality & DevOps:** PHPUnit, SonarQube, Jenkins, CI/CD, SOLID principles
+- **Ways of working:** Agile (Scrum, Kanban), Mentoring
 
 ## Professional Experience
 
-**Printi, Remote** | Backend Software Engineer PHP | April 2023 - July 2025
-* Maintained high standards of code quality by conducting reviews, refactoring, and implementing automated testing using PHPUnit and SonarQube, ensuring code stability and security.
-* Worked as a software engineer and gradually took on more leadership responsibilities, coordinating sprints, managing development efforts, and aligning teams with business objectives.
-* Collaborated with international developers, coordinating different time zones and cultural contexts.
+**Printi, Remote** | PHP Backend Software Engineer · Full-time | April 2023 – July 2025
+- Built scalable microservices with Symfony and AWS (SNS, SQS, Lambda) to improve reliability and reduce dependencies.
+- Raised code quality with reviews, refactoring, and automated testing (PHPUnit, SonarQube).
+- Coordinated sprints and mentored the squad toward better delivery, collaborating with teams across India and Romania.
+- Built CRM integrations (HubSpot).
 
-**Brasil TecPar (Datum TI), Remote** | Backend Software Engineer PHP | September 2022 - April 2023
-* Participated in a team primarily focused on the commercial area, with occasional contributions to the networking area.
-* Utilized Symfony, Oracle DB, and RabbitMQ for communication between microservices in the development and maintenance of various integrations.
-* Contributed to the expansion of the platform to accommodate specific requirements brought by integrations between systems used by the main products.
+**Brasil TecPar, São Borja – Brazil (Remote)** | PHP Backend Software Engineer · Full-time | September 2022 – April 2023
+- Maintained critical integrations with Symfony, Oracle DB, and RabbitMQ between microservices.
+- Worked mainly with the commercial area and helped expand the platform for product integrations.
 
-**Cloudfox, Remote** | Full Stack Software Engineer PHP | April 2021 - June 2022
-* Participated in the development of all features of the anti-fraud system from the beginning, in a team of 2 developers, from gathering information with the internal team to prioritizing requirements and implementing features.
-* Eliminated the need to use various tools, reducing fraudulent payments and money spent on chargebacks by approximately 60%.
-* Created a dynamic dashboard with Alpine JS for the internal team to decide if a transaction was fraudulent, reducing the time between analysis and improving performance.
+**Cloudfox, São Paulo – Brazil (Remote)** | Full Stack Software Engineer · Contract | April 2021 – June 2022
+- Co-built an anti-fraud system from scratch in a two-person team, cutting fraud and chargebacks by ~60%.
+- Built a real-time decision dashboard in Alpine.js that sped up transaction analysis.
+- Started a Laravel 9 + Next.js + MongoDB fraud-ring system (aborted after the company was acquired).
 
-**KBR TEC - Web & Software, Santos SP - Brazil** | Full Stack Software Engineer | October 2019 - March 2021
-* Created with other interns a project to manage internal information, from passwords to configurations and the status of projects in progress.
-* Worked on the backend of various sites, from simple landing pages with contact forms to more complex sites with integrations with WordPress via plugins, payment using PagSeguro, and administrative panels for controlling information.
+**KBR TEC, Santos – Brazil (Hybrid)** | Full Stack Software Engineer · Internship | October 2019 – March 2021
+- Built internal management and scheduling tools that centralized project tracking.
+- Delivered backends for client sites — landing pages, WordPress plugin integrations, PagSeguro payments, admin panels.
+- Deployed Laravel on shared hosting and supported ASP/ASP.NET/C#/Vue.js systems.
 
 ## Education
 
-**ETEC Adolpho Berezin (Centro Paula Souza)** | Computer Technician | July 2011 - December 2012
+**ETEC Adolpho Berezin (Centro Paula Souza)** | Computer Technician | July 2011 – December 2012
 
-## Curiosities
+## Beyond code
 
-* Demonstrated proficiency in software and hardware engineering and product prototyping through the development of the EMG project, selected by SEBRAE to create a startup, more in this [article](https://noticias.unisanta.br/ciencia-tecnologia/startups-de-alunos-da-unisanta-sao-selecionadas-para-participar-de-projeto-do-sebrae).
-* I volunteered to teach computer skills to seniors and teenagers at my local church, improving my communication skills while aiding my community.
+- Built the EMG project, selected by SEBRAE for its startup program — [read the article](https://noticias.unisanta.br/ciencia-tecnologia/startups-de-alunos-da-unisanta-sao-selecionadas-para-participar-de-projeto-do-sebrae).
+- Volunteered teaching computer skills to seniors and teenagers at my local church.
