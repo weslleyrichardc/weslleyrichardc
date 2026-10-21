@@ -9,7 +9,7 @@ Backend software engineer with 5+ years of experience and a product mindset. I b
 
 > **Open to remote full-stack/backend roles (PHP/Laravel preferred) and freelance, consulting, and part-time welcome.**
 
-After Printi, I took a sabbatical and have been traveling since, and I'm now looking for remote work to make the nomad life a long-term thing.
+After Printi, I took a sabbatical and have been traveling and working remotely since — Europe and Georgia so far, Asia next — and I'm now looking for remote work to make the nomad life a long-term thing.
 
 ## Skills
 
